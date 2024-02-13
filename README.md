@@ -1,5 +1,3 @@
-# my-blog
-
 # [The Words and Tech Blog]
 
 Welcome to [The Words and Tech Blog] GitHub repository! This repository hosts the source code and content for my technical writing blog. 
