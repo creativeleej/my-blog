@@ -17,6 +17,6 @@ The Words and Tech Blog is a blog exploring the ever-evolving worlds of technica
 
 ## Stay Connected
 - **Website:** https://www.haletha.com
-- **Twitter:** @halethajudkins
+- **Twitter:** [@halethajudkins](https://twitter.com/halethajudkins)
 
 I appreciate your interest in The Words and Tech Blog! Happy reading and writing!
