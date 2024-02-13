@@ -1,9 +1,9 @@
-# [The Words and Tech Blog]
+# The Words and Tech Blog
 
-Welcome to [The Words and Tech Blog] GitHub repository! This repository hosts the source code and content for my technical writing blog. 
+Welcome to The Words and Tech Blog GitHub repository! This repository hosts the source code and content for my technical writing blog. 
 
 ## About Us
-[The Words and Tech Blog] is a blog exploring the ever-evolving worlds of technical writing and technology, offering informed perspectives, and generating thought-provoking discussions.
+The Words and Tech Blog is a blog exploring the ever-evolving worlds of technical writing and technology, offering informed perspectives, and generating thought-provoking discussions.
 
 ## Features
 - **Comprehensive Articles:** Dive into in-depth analyses, tutorials, and industry insights covering various aspects of technical writing.
@@ -16,8 +16,7 @@ Welcome to [The Words and Tech Blog] GitHub repository! This repository hosts th
 3. Contribute: If you have insights to share or spot any improvements, feel free to open a pull request or raise an issue.
 
 ## Stay Connected
-- **Website:** [https://www.haletha.com]
-- **Twitter:** [@halethajudkins]
-- **Email:** [hlj@haletha.com]
+- **Website:** https://www.haletha.com
+- **Twitter:** @halethajudkins
 
-I appreciate your interest in [The Words and Tech Blog]! Happy reading and writing!
+I appreciate your interest in The Words and Tech Blog! Happy reading and writing!
