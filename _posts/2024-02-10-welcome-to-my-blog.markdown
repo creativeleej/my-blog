@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to My Blog"
-date:   2024-02-10 18:25:13 -0600
+date:   2024-02-15 18:25:13 -0600
 categories: General Tech Writing
 ---
 Hello, fellow writers and enthusiasts of all things technical! My name is Haletha and I'm thrilled to embark on this journey of exploring advanced technical writing topics with you. As a passionate writer and seasoned professional in the field of technical communication, I've always been fascinated by the intersection of language, technology, and user experience. Through this blog, I aim to delve deeper into the nuances of technical writing, covering a range of advanced topics that resonate with professionals and aspiring writers alike.
