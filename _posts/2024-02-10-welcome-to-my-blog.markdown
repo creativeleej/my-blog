@@ -8,7 +8,7 @@ Hello, fellow writers and enthusiasts of all things technical! My name is Haleth
 
 ## About Me
 
-With more than 20 years of experience in technical writing, I've had the privilege of working on diverse projects across various industries. My background has provided me with valuable insights into the intricacies of communicating complex concepts in a clear, concise, and user-friendly manner. Whether it's crafting API documentation, demystifying programming languages, or optimizing content for SEO, I'm passionate about helping fellow writers hone their skills and stay ahead in this rapidly evolving field.
+With more than 20 years of experience in technical writing, I've had the privilege of working on diverse projects across various industries. My background has provided me with valuable insights into the intricacies of communicating complex concepts in a clear, concise, and user-friendly manner. Whether it's advancements in crafting API or software documentation, demystifying programming languages, or exploring the benefits of artificial intelligence, I'm passionate about staying ahead in this rapidly evolving field.
 
 ## What to Expect
 
